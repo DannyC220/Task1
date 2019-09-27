@@ -42,6 +42,8 @@ namespace GADE_POE_Part_1
 
         public abstract int AttackPhase();
 
+        public abstract void IsDead();
+
         public abstract void RunAway();
 
         

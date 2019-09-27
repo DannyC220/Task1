@@ -52,7 +52,6 @@
     </Compile>
     <Compile Include="GameEngine.cs" />
     <Compile Include="Map.cs" />
-    <Compile Include="Melee.cs" />
     <Compile Include="MeleeUnit.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

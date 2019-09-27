@@ -77,7 +77,7 @@ namespace GADE_POE_Part_1
                 {
                     if (distanceY < 0)
                         YPosition--;
-                    else if (distanceX > 0)
+                    else if (distanceY > 0)
                         YPosition++;
                 }
             }
@@ -124,7 +124,7 @@ namespace GADE_POE_Part_1
                     valid = false;
                 else
                     valid = true;
-                    
+
             }
 
             switch (move)
@@ -140,9 +140,24 @@ namespace GADE_POE_Part_1
                     break;
                 case 4:
                     XPosition--;
-                    break;     
+                    break;
             }
+
+
+
         }
+
+        public override void IsDead()
+        {
+
+        }
+
+
+
+
+
+
+
 
     }
 }
