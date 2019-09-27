@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Second and First year work\1st Year\GADE5111 Practise Activities second year\GADE POE Part 1\bin\Debug\GADE POE Part 1.exe.config
+C:\Users\User\Documents\Second and First year work\1st Year\GADE5111 Practise Activities second year\GADE POE Part 1\bin\Debug\GADE POE Part 1.exe
+C:\Users\User\Documents\Second and First year work\1st Year\GADE5111 Practise Activities second year\GADE POE Part 1\bin\Debug\GADE POE Part 1.pdb
+C:\Users\User\Documents\Second and First year work\1st Year\GADE5111 Practise Activities second year\GADE POE Part 1\obj\Debug\GADE POE Part 1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Second and First year work\1st Year\GADE5111 Practise Activities second year\GADE POE Part 1\obj\Debug\GADE_POE_Part_1.Form1.resources
+C:\Users\User\Documents\Second and First year work\1st Year\GADE5111 Practise Activities second year\GADE POE Part 1\obj\Debug\GADE_POE_Part_1.Properties.Resources.resources
+C:\Users\User\Documents\Second and First year work\1st Year\GADE5111 Practise Activities second year\GADE POE Part 1\obj\Debug\GADE POE Part 1.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Second and First year work\1st Year\GADE5111 Practise Activities second year\GADE POE Part 1\obj\Debug\GADE POE Part 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Second and First year work\1st Year\GADE5111 Practise Activities second year\GADE POE Part 1\obj\Debug\GADE POE Part 1.exe
+C:\Users\User\Documents\Second and First year work\1st Year\GADE5111 Practise Activities second year\GADE POE Part 1\obj\Debug\GADE POE Part 1.pdb
